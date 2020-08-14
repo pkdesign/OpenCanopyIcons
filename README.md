@@ -10,6 +10,7 @@ ExtHardDrive.icns
 HardDrive.icns
 ResetNVRAM.icns
 Selected.icns
+Selector.icns
 Shell.icns
 Tool.icns
 Windows.icns
