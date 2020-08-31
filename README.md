@@ -1,2 +1,2 @@
 # OpenCanopyIcons
-Contain a basic set of icons for use with OpenCanopy.
+Each set contain a basic set of icons for use with OpenCanopy.
